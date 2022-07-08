@@ -1,0 +1,2 @@
+# Padrao-Strategy
+Strategy pattern
